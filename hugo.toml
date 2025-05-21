@@ -1,0 +1,62 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'iharuspex'
+theme = 'risotto'
+DefaultContentLanguage = "en"
+
+[languages]
+[languages.en]
+contentDir = "content/"
+languageName = "English"
+weight = 1
+
+[pagination]
+pagerSize = 3
+
+[params]
+noindex = false
+
+[params.theme]
+pallete = "base16-dark"
+
+[params.about]
+title = "Artem Paraev"
+description = "Embedded Software Developer"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-github"
+title = "GitHub"
+url = "https://github.com/iharuspex"
+
+[[params.socialLinks]]
+icon = "fa-solid fa-envelope"
+title = "Email"
+url = "mailto:artemparaev.dev@gmail.com"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-linkedin"
+title = "LinkedIn"
+url = "https://linkedin.com"
+
+[[params.socialLinks]]
+icon = "fa-brands fa-telegram"
+title = "Telegram"
+url = "@my_telegram"
+
+[menu]
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+identifier = "blog"
+name = "Blog"
+url = "/posts/"
+weight = 10
+
+
+
+
+

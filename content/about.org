@@ -1,0 +1,13 @@
+#+TITLE: About me
+
+[[https://something.org][Download my CV in PDF]]
+
+* Bio
+
+* Skills
+
+* Languages
+
+* Education
+
+* Work experience

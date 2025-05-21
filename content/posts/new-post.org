@@ -1,0 +1,8 @@
+#+TITLE: New post
+#+DATE: 2025-05-21T04:14:54-08:00
+#+AUTHOR: haruspex
+#+DRAFT: false
+#+DECRIPTION: "First test post"
+#+TAGS: test
+
+* New post

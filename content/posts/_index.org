@@ -1,0 +1,4 @@
+#+TITLE: Posts
+#+AUTHOR: haruspex
+#+TAGS: index
+#+ALIASES[]: posts articles blog showcase docs
