@@ -3,11 +3,32 @@
 [[https://something.org][Download my CV in PDF]]
 
 * Bio
-
 * Skills
-
+Hard skills:
+- Languages: C, C++, Python, Ada
+- OS: FreeRTOS, Zephyr, Embedded Linux, QNX
+- Hardware: STM32, AVR, ESP32
+- Drivers development (bare-metal and Linux)
+- 
 * Languages
++ Russian - Native
++ English - Elementary A2
++ Ukrainian - Elementary
++ Esperanto - Beginner
 
 * Education
++ 2015 - 2017 
+Siberian Federal University
+Computer Science and Engineering
+Master's Degree
+
++ 2011 - 2015 
+Siberian Federal University
+Information technology and computer engineering
+Bachelor's Degree
 
 * Work experience
++ 2017 - now 
+Autonomous Aerospace Systems Ltd.
+Embedded Software Developer
+

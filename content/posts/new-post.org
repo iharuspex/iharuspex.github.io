@@ -6,3 +6,43 @@
 #+TAGS: test
 
 * New post
+
+This is an example. 
+
+** Shell code block
+#+begin_src shell
+echo "Hello"
+#+end_src
+
+** C code block
+#+begin_src c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(int argc, char *argv[])
+{
+    printf("Test C code block!\n");
+
+    return EXIT_SUCCES;
+}
+#+end_src
+
+** List
+
+- Step 1
+- Step 2
+  - Step 2.1
+  - Step 2.2
+
+** Table
+
+|     1 |     2 |     3 |
+|-------+-------+-------|
+| Prop1 | Prop2 | Prop3 |
+
+
+** Image
+
+[[/mita_test_img.png]]
+
+
