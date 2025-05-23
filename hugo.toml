@@ -4,6 +4,10 @@ title = 'iharuspex'
 theme = 'risotto'
 DefaultContentLanguage = "en"
 
+[caches]
+[caches.images]
+dir = ':cacheDir/images'
+
 [languages]
 [languages.en]
 contentDir = "content/"
