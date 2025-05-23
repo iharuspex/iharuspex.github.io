@@ -1,0 +1,6 @@
+#+TITLE: iharuspex.github.io
+#+AUTHOR: haruspex
+#+DATE: 23-05-2025
+#+STARTUP: showall
+
+* My personal web-page
