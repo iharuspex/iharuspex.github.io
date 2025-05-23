@@ -1,6 +1,7 @@
 #+TITLE: New post
 #+DATE: 2025-05-21T04:14:54-08:00
 #+AUTHOR: haruspex
+#+STARTUP: content
 #+DRAFT: false
 #+DECRIPTION: "First test post"
 #+TAGS: test
@@ -33,7 +34,6 @@ int main(int argc, char *argv[])
 - Step 2
   - Step 2.1
   - Step 2.2
-
 ** Table
 
 |     1 |     2 |     3 |
@@ -42,7 +42,6 @@ int main(int argc, char *argv[])
 
 
 ** Image
-
 [[/mita_test_img.png]]
 
 

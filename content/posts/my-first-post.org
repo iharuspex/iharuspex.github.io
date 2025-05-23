@@ -1,6 +1,7 @@
 #+TITLE: First post
 #+DATE: 2024-02-02T04:14:54-08:00
 #+AUTHOR: haruspex
+#+STARTUP: content
 #+DRAFT: false
 #+DECRIPTION: "First test post"
 

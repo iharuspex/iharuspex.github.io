@@ -1,5 +1,6 @@
 #+TITLE: haruspex
 #+DATE: 2025-05-21
+#+STARTUP: content
 
 * Haruspex's Blog
 

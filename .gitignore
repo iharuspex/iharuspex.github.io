@@ -11,6 +11,9 @@ bin-release/
 # lock
 *.lock
 
+# Emacs backup files
+*~
+
 # Executables
 *.swf
 *.air
