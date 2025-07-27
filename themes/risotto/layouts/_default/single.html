@@ -3,7 +3,11 @@
         <h1>{{ .Title | markdownify }}</h1>
     </header>
     <div class="content__body">
-        {{ .Content }}
+      <!--      {{ .Content }} -->
+      {{ if .Params.skills }}
+      {{ $content := .Content | replaceRE "<!-- SKILLS_HERE -->" (partial "skills.html" .) }}
+      {{ $content | safeHTML }}
+      {{ end }}
     </div>
     <footer class="content__footer"></footer>
 {{ end }}

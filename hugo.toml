@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'iharuspex'
+title = 'iharuspex@localhost'
 theme = 'risotto'
 DefaultContentLanguage = "en"
 
@@ -57,7 +57,7 @@ weight = 10
 [[menu.main]]
 identifier = "blog"
 name = "Blog"
-url = "/posts/"
+url = "/post/"
 weight = 10
 
 

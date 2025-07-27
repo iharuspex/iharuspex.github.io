@@ -1,0 +1,14 @@
+{{ if .Params.skills }}
+{{ $css := resources.Get "css/skills.css" | minify }}
+<div class="skills-container">
+  {{ range .Pages }}
+  <div class="skill-item">
+    <span class="skill-name">{{ .Title }}</span>
+    <div class="progress-bar">
+      <div class="progress-fill" style="width: {{ .Params.level }}%"></div>
+    </div>
+    <span class="skill-percent">{{ .Params.level }}%</span>
+  </div>
+  {{ end }}
+</div>
+{{ end }}

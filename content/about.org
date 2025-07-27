@@ -1,5 +1,5 @@
 #+TITLE: About me
-#+STARTUP: content
+#+STARTUP: showall
 
 [[https://something.org][Download my CV in PDF]]
 
